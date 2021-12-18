@@ -1,0 +1,38 @@
+id: ef584cfe-2ae7-48e3-a93b-4b9c767a0381
+name: Guide to Neverwinter
+slug: guide-to-neverwinter
+description: A guide for crafting adventures in the magical city of Neverwinter.
+category: adventure
+author: Jacob Johnston
+cover: Cover.jpg
+print-cover: Cover.jpg
+print-link-update: D&D Beyond Entries
+version: 1
+auto-increment-version: false
+delete-empty-groups: true
+maps:
+  - path: Maps/NeverwinterMap.zip
+    order: 1
+    parent: appendix-a-maps
+    slug: neverwinter-map
+  - path: Maps/BeachedLeviathanDayMap.zip
+    order: 2
+    parent: appendix-a-maps
+    slug: beached-leviathan-day-map
+  - path: Maps/BeachedLeviathanNightMap.zip
+    order: 3
+    parent: appendix-a-maps
+    slug: beached-leviathan-night-map
+  - path: Maps/AbandonedTownhouseMap.zip
+    order: -1
+    parent: the-abandoned-townhouse
+    slug: abandoned-townhouse-map
+encounters:
+  - path: Encounters/TheAbandonedTownhouse-WereratEncounter.zip
+    order: 1
+    parent: abandoned-townhouse-map
+    slug: abandoned-townhouse-wererat-encounter
+  - path: Encounters/TheAbandonedTownhouse-StormGyreEncounter.zip
+    order: 2
+    parent: abandoned-townhouse-map
+    slug: abandoned-townhouse-storm-gyre-encounter

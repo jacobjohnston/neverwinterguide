@@ -1,0 +1,5 @@
+name: "Print Images"
+slug: print-images
+order: 10000
+include-in: print
+copy-files: false

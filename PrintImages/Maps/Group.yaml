@@ -1,0 +1,5 @@
+name: "Print Images: Maps"
+slug: print-images-maps
+order: 10000
+include-in: print
+copy-module-images: false

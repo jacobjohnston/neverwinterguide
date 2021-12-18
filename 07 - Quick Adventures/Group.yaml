@@ -1,0 +1,5 @@
+name: "Quick Adventures"
+slug: quick-adventures
+order: 70
+include-in: all
+copy-files: true

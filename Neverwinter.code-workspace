@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/ModuleBuild": true
+		},
+		"markdown.styles": [
+			"assets/css/custom.css"
+		],
+		"cSpell.words": [
+			"Ashmadai",
+			"Atlavast",
+			"Bluelake",
+			"Cheldar",
+			"Cheldarstorn",
+			"Dagult",
+			"dwarven",
+			"earthmote",
+			"earthmotes",
+			"festhall",
+			"Firehands",
+			"Harrag",
+			"Hotenow",
+			"Icespire",
+			"Infravision",
+			"Liset",
+			"Llomnauvel",
+			"Netherese",
+			"Neverember",
+			"Neverwinter",
+			"Oghma",
+			"Oloadhin",
+			"Ophala",
+			"Overwizard",
+			"Phandalin",
+			"Phandelver",
+			"rulebooks",
+			"sahuagin",
+			"Skyhold",
+			"skyship",
+			"Spellplague",
+			"Underdark",
+			"Vagdru"
+		]
+	}
+}

@@ -1,0 +1,294 @@
+table.wrapping {
+  display: inline-block;
+}
+
+figcaption {
+  font-weight: bold;
+  color: #631d07;
+}
+
+.allow-breaks { 
+  page-break-inside: auto;
+}
+
+.statblock {
+  background-color: #ffffff;
+  zoom: 0.92;
+}
+
+.statblock .statblock-title,
+.statblock .statblock-tapered-rule,
+.statblock .statblock-section-title {
+  color: #631d07;
+}
+
+.statblock .statblock-tapered-rule {
+  fill: #631d07;
+  stroke: #631d07;
+}
+
+.statblock .statblock-section-title {
+  border-bottom-color: #631d07;
+}
+
+.statblock .statblock-abilities,
+.statblock .statblock-ability-abbrev,
+.statblock .statblock-topstat-value,
+.statblock .statblock-subtitle,
+.statblock .statblock-topstat-name,
+.statblock .statblock-property-name,
+.statblock .statblock-property-name,
+.statblock .statblock-section-title,
+.statblock .statblock-property-value {
+  color: #000000;
+}
+
+.statblock .statblock-border {
+  background: #798079;
+}
+
+h1 {
+  font-size: 3.0rem;
+}
+
+h2 {
+  font-size: 2.3rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+/************ Encounters ************/
+
+table.enemy {
+  margin-bottom: 1.5rem;
+}
+
+table.enemy tbody tr {
+  background: #e4c3c3;
+  line-height: unset;
+}
+
+table.enemy tbody tr {
+  line-height: 1.5;
+}
+
+table.enemy img {
+  height: 1.8rem;
+  vertical-align: top;
+  margin-right: 0.5rem;
+}
+
+table.enemy {
+  background: #e4c3c3;
+  border-collapse: collapse;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  overflow: hidden;
+}
+
+table.enemy tbody tr.footnote {
+  font-size: 1.1rem;
+}
+
+table.enemy a {
+  color: #bc0f0e;
+}
+
+/************ NPCs ************/
+
+table.npc {
+  margin-bottom: 1.5rem;
+}
+
+table.npc tbody tr {
+  background: #c3d3e4;
+  line-height: unset;
+}
+
+table.npc tbody tr {
+  line-height: 1.5;
+}
+
+table.npc img {
+  height: 1.8rem;
+  vertical-align: top;
+  margin-right: 0.5rem;
+}
+
+table.npc {
+  background: #c3d3e4;
+  border-collapse: collapse;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  overflow: hidden;
+}
+
+table.npc tbody tr.footnote {
+  font-size: 1.1rem;
+}
+
+table.npc a {
+  color: #0e1cbc;
+}
+
+/************ References ************/
+
+table.references {
+  margin-bottom: 1.5rem;
+}
+
+table.references tbody tr {
+  background: #dce8d8;
+  line-height: 1.0rem;
+}
+
+table.references thead tr th {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+table.references tbody tr td {
+  font-size: 1.0rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+table.references img {
+  height: 1.8rem;
+  vertical-align: top;
+  margin-right: 0.5rem;
+}
+
+table.references {
+  background: #dce8d8;
+  border-collapse: collapse;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  overflow: hidden;
+}
+
+table.references tbody tr.footnote {
+  font-size: 1.1rem;
+}
+
+table.references a {
+  color: #000000;
+}
+
+/************ Homebrew ************/
+
+table.homebrew {
+  margin-bottom: 1.5rem;
+}
+
+table.homebrew tbody tr {
+  background: #e8e7dd;
+  line-height: unset;
+}
+
+table.homebrew thead tr th {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+table.homebrew tbody tr td {
+  padding-top: 0.5rem;
+}
+
+table.homebrew img {
+  height: 1.8rem;
+  vertical-align: top;
+  margin-right: 0.5rem;
+}
+
+table.homebrew {
+  background: #e8e7dd;
+  border-collapse: collapse;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  overflow: hidden;
+}
+
+table.homebrew tbody tr.footnote {
+  font-size: 1.1rem;
+}
+
+table.homebrew a {
+  color: #000000;
+}
+
+/************ DM Ideas ************/
+
+table.dmidea {
+  margin-bottom: 1.5rem;
+}
+
+table.dmidea tbody tr {
+  background: #e3dde8;
+  line-height: unset;
+}
+
+table.dmidea thead tr th {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+table.dmidea tbody tr td {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+table.dmidea img {
+  height: 1.8rem;
+  vertical-align: top;
+  margin-right: 0.5rem;
+}
+
+table.dmidea {
+  background: #e3dde8;
+  border-collapse: collapse;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  overflow: hidden;
+}
+
+table.dmidea tbody tr.footnote {
+  font-size: 1.1rem;
+}
+
+table.dmidea a {
+  color: #000000;
+}
+
+.image-neverember {
+  shape-outside: polygon(30% 0%, 30% 15%, 0% 78%, 15% 90%, 15% 100%, 100% 100%, 100% 0%);
+  max-width: 410px;
+  height: auto;
+  float: right;
+}
+
+.image-beached-leviathan {
+  shape-outside: polygon(75% 0%, 100% 15%, 100% 75%, 70% 100%, 0% 100%, 0% 0%);
+  max-width: 55%;
+  height: auto;
+  float: left;
+}
+
+@media print {
+  .image-neverember {
+    shape-outside: polygon(38% 0%, 38% 15%, 0% 70%, 0% 70%, 0% 80%, 15% 90%, 15% 100%, 0% 100%, 100% 100%, 100% 0%);
+    margin-right: -0.5in;
+  }  
+
+  .image-beached-leviathan {
+    margin-left: -0.5in;
+  }
+}
