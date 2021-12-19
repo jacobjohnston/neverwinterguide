@@ -5,7 +5,7 @@ order: 10
 module-pagebreaks: h1, h2
 ---
 
-> *A Dungeon Master's Guide to Neverwinter* is un official Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. {.neutral}
+> *A Dungeon Master's Guide to Neverwinter* is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. {.neutral}
 
 # Introduction
 

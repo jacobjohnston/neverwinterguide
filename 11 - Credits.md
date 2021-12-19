@@ -48,4 +48,4 @@ This document is authored in Markdown and created using the [EncounterPlus Markd
 
 # Fan Content Policy 
 
-*A Dungeon Master's Guide to Neverwinter* is un official Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.{.no-fancy}
+*A Dungeon Master's Guide to Neverwinter* is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.{.no-fancy}
