@@ -1,7 +1,7 @@
 id: ef584cfe-2ae7-48e3-a93b-4b9c767a0381
 name: Guide to Neverwinter
 slug: guide-to-neverwinter
-description: A guide for crafting adventures in the magical city of Neverwinter.
+description: A guide to exploring the captivating city of Neverwinter.
 category: adventure
 author: Jacob Johnston
 cover: Cover.jpg
@@ -20,9 +20,25 @@ maps:
     parent: appendix-a-maps
     slug: beached-leviathan-day-map
   - path: Maps/BeachedLeviathanNightMap.zip
+    order: 1
+    parent: beached-leviathan-day-map
+    slug: beached-leviathan-night-map
+  - path: Maps/CityMap1.zip
     order: 3
     parent: appendix-a-maps
-    slug: beached-leviathan-night-map
+    slug: city-map-1-map
+  - path: Maps/CityMap1Night.zip
+    order: 1
+    parent: city-map-1-map
+    slug: city-map-1-night-map
+  - path: Maps/CityMap2.zip
+    order: 3
+    parent: appendix-a-maps
+    slug: city-map-2-map
+  - path: Maps/CityMap2Night.zip
+    order: 1
+    parent: city-map-2-map
+    slug: city-map-2-night-map
   - path: Maps/AbandonedTownhouseMap.zip
     order: -1
     parent: the-abandoned-townhouse

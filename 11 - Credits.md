@@ -25,7 +25,7 @@ Castle Never illustration by [Valery Sazonov](https://www.fiverr.com/valeryse){.
 
 Moonstone Mask illustration by [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
 
-Beached Leviathan illustration by [Artem Pavlenko](https://www.fiverr.com/inbox/skiho_){.neutral}
+Beached Leviathan illustration by [Artem Pavlenko](https://www.fiverr.com/skiho_){.neutral}
 
 Shard of the Moon illustration by [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
 

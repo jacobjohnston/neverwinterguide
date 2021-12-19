@@ -42,12 +42,12 @@ hide-footer-text: true
 - [Swift Heart Sundries](swift-heart-sundries)
 - [Priscilla's Perfumes and Potables](priscillas-perfumes-and-potables)
 - [Arcane Acquisitions](arcane-acquisitions)
-- [Quick Adventures](quick-adventures) {.part}
+- [Quick Adventures](quick-adventures-page) {.part}
 - [The Abandoned Townhouse](the-abandoned-townhouse)
-- [Appendices](appendix-a-maps) {.part}
-- [Appendix A - Maps](appendix-a-maps)
-- [Appendix B - Point of Interest Cards](point-of-interest-cards-page)
-- [Appendix C - Creatures](appendix-c-creatures)
+- [Appendices](appendix-a-maps-page) {.part}
+- [Appendix A - Maps](appendix-a-maps-page)
+- [Appendix B - Point of Interest Cards](appendix-b-point-of-interest-cards-page)
+- [Appendix C - Creatures](appendix-c-creatures-page)
 - [Credits](credits) {.part}
 {.toc}
 
