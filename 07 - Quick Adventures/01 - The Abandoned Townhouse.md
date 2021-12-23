@@ -11,7 +11,7 @@ module-pagebreaks: h1, h2, h3
 
 |![Homebrew](../mug.svg)**Homebrew Content**|
 |---|
-|This section an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
 {.homebrew}
 
 This Quick Adventure is designed for a party of roughly three to five 5th level players.{.no-fancy}
@@ -34,7 +34,7 @@ The adventurers are commissioned by a wealthy merchant to break down the magical
 
 (print-page)
 
-## Investing the Townhouse
+## Investigating the Townhouse
 
 When the players approach the house, read the following:
 
@@ -57,7 +57,7 @@ The party is free to leave unharmed if they wish. If they choose to do so, the n
 
 ### 2. Dining & Living Room
 
-A strange blue flame flickers in the hearth but produces no heat. Old cobwebs line the walls, and dust has settled on every surface. A DC 15 Intelligence (Investigation) check on the bookshelves will reveal a [1st Level Spell Scroll](/item/spell-scroll-1st-level)){.magic-item}.
+A strange blue flame flickers in the hearth but produces no heat. Old cobwebs line the walls, and dust has settled on every surface. A DC 15 Intelligence (Investigation) check on the bookshelves will reveal a [1st Level Spell Scroll](/item/spell-scroll-1st-level){.magic-item}.
 
 ### 3. Kitchen
 
