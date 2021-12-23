@@ -41,7 +41,7 @@ actions:
     description: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
 reactions:
   - name: Uncanny Dodge
-    description: "The wererat halves the damage that its takes from an attack that hits it. It must be able to see the attacker."
+    description: "The wererat halves the damage that it takes from an attack that hits it. It must be able to see the attacker."
 image: WereratAssassin.jpg
 token: WereratAssassinToken.png
 column-after: actions
