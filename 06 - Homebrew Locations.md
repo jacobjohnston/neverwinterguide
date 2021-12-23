@@ -9,7 +9,7 @@ module-pagebreaks: h1, h2, h3
 
 |![Homebrew](mug.svg)**Homebrew Content**|
 |---|
-|This section an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
 {.homebrew}
 
 Welcome, Dungeon Masters! While the guide has focused on the canonical locations and history of Neverwinter thus far, this section is all about providing newly made-up locations that Dungeon Masters may find useful if running a campaign through this sprawling city. Despite the great locations that are offered up in official lore sources, the city is actually light on more run-of-the-mill, utilitarian shops and locations (at least compared to somewhere like Phandalin).
