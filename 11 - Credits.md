@@ -41,6 +41,8 @@ Special thanks to the early proofreaders that read this guide in its earliest an
 - Jordan Cooper
 - Jennifer Johnston
 
+Thank you to the following contributors who have [submitted edits](https://github.com/jacobjohnston/neverwinterguide) to this guide: @GuardDanGnome
+
 #### Document Creation
 This document is authored in Markdown and created using the [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) plugin for Visual Studio Code. More can be learned about this tool at our [GitHub page](https://github.com/encounterplus/module-packer) or in [Discord](https://discord.gg/68sQ97Py).
 

@@ -71,7 +71,7 @@ Whenever you see the mug icon below, it means the section is "Homebrew" content.
 
 |![Homebrew](mug.svg)**Homebrew Content**|
 |---|
-|This section an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
 {.homebrew}
 
 ### Virtual Tabletops
