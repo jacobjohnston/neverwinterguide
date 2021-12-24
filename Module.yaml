@@ -10,6 +10,9 @@ print-link-update: D&D Beyond Entries
 version: 1
 auto-increment-version: false
 delete-empty-groups: true
+ignore:
+  - CHANGELOG.md
+  - README.md
 maps:
   - path: Maps/NeverwinterMap.zip
     order: 1
