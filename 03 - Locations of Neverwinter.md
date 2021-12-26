@@ -264,7 +264,7 @@ In 1479, as part of the scuffle over the true heir to the throne of Neverwinter 
 |*Neverwinter Campaign Setting*, p. 154-155, (4th Edition)|
 |*Lost Crown of Neverwinter*, p. 18 - 19, (4th Edition)|
 |*Storm Over Neverwinter*, p. 17 - 18, (4th Edition)|
-|*Dungeon, Issue #193 - Tavern Profile: The Beached Leviathan*, p. 1 - 6, (4th Edition)|
+|*Dungeon, Issue #193*, p. 79 -83, (4th Edition)|
 {.references}
 
 ### The Driftwood Tavern
@@ -321,7 +321,7 @@ In 1479 DR, adventurers raided the tower and allowed the the priests of Selûne 
 
 |![Book](book.svg)**Read More**|
 |---|
-|*Dungeon Magazine, Issue #193 - Shards of Selûne*, p. 1 - 22, (4th Edition)|
+|*Dungeon, Issue #193*, p. 57 - 78, (4th Edition)|
 |*Neverwinter Campaign Setting*, p. 158, (4th Edition)|
 {.references}
 

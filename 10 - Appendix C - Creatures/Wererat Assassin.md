@@ -9,17 +9,17 @@ slug: wererat-assassin
 size: Medium
 type: humanoid (human, shapechanger)
 alignment: lawful evil
-ac: 14 (Studded Leather)
+ac: 17 (Leather)
 hp: 70 (9d10 + 21)
 speed: 30 ft.
 str: 11
-dex: 17
+dex: 18
 con: 14
 int: 11
-wis: 11
+wis: 12
 cha: 12
 saves: DEX +5, INT +3
-skills: Perception +3, Stealth +5
+skills: Perception +3, Stealth +6
 damageImmunities: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 senses: Darkvision 60 ft., Passive Perception 13
 languages: Common, Thieves' Cant (can't speak in rat form)
@@ -32,11 +32,11 @@ traits:
     description: The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 actions:
   - name: Multiattack (Humanoid or Hybrid Form Only)
-    description: "The wererat makes 2 attacks with its dagger."
+    description: "The wererat makes 3 attacks with its dagger."
   - name: Dagger (Humanoid or Hybrid Form Only)
-    description: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+    description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage."
   - name: Hand Crossbow (Humanoid or Hybrid Form Only)
-    description: "Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+    description: "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
   - name: Bite (Rat or Hybrid Form Only)
     description: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
 reactions:
