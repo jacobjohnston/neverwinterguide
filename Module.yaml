@@ -7,9 +7,10 @@ author: Jacob Johnston
 cover: Cover.jpg
 print-cover: Cover.jpg
 print-link-update: D&D Beyond Entries
-version: 2
+version: 3
 auto-increment-version: false
 delete-empty-groups: true
+print-document-size: letter
 ignore:
   - CHANGELOG.md
   - README.md

@@ -1,3 +1,6 @@
+# 1.3
+- Updated monster stat blocks to new format
+
 # 1.2
 - Fixed reference page numbers on Dungeon #193
 - Made Wererat Assassin more challenging

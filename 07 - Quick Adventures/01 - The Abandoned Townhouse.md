@@ -44,16 +44,16 @@ When the players approach the house, read the following:
 
 ||
 |---|
-|![Skull](../skull.svg)[Encounter: 2 x Wererat Assassin, 1 x Wererat Mage](abandoned-townhouse-wererat-encounter)|
+|![Skull](../skull.svg)[Encounter: 2 x Wererat Assassin, 1 x Wererat Wizard](abandoned-townhouse-wererat-encounter)|
 {.enemy .screen-only}
 
 The door to the townhouse is firmly locked. The entire house is protected with abjuration magic, and attempts to physically break through a window or door will be met with failure (no matter how strong the party members are). The magical barrier, placed by Elden Vargas, was meant to keep common thieves out of his home while he was away. A simple [Dispel Magic](/spell/dispel-magic) spell will rid the entire townhouse of the barrier.
 
-As the players try to enter the door, however, three members of the Dead Rats gang (2 [Wererat Assassins](/monster/wererat-assassin){.screen-only}[Wererat Assassins](wererat-assassin-page){.print-only .monster} and a [Wererat Mage](/monster/wererat-mage){.screen-only}[Wererat Mage](wererat-mage-page){.print-only .monster}) approach from behind:
+As the players try to enter the door, however, three members of the Dead Rats gang (2 [Wererat Assassins](/monster/wererat-assassin){.screen-only}[Wererat Assassins](wererat-assassin-page){.print-only .monster} and a [Wererat Wizard](/monster/wererat-wizard){.screen-only}[Wererat Wizard](wererat-wizard-page){.print-only .monster}) approach from behind:
 
 > As you work out how to enter the structure, three half-man-half-rat hybrids enter the gates behind you. Two are dressed in black leather and carry an array of swords and daggers, and one is in robes and carries a glowing staff. One of the leather-clad rats snarls at you, "this is Dead Rats property you're trespassing on, and we think it is best if you leave." {.read}
 
-The party is free to leave unharmed if they wish. If they choose to do so, the next time they return to the property, it will be ransacked and empty of all items. If the adventurers decline to leave, the wererats attack. If the Wererat Assassins are killed first, the Wererat Mage will attempt to flee. The Wererat Mage can be coerced to dispel the magic barrier if captured alive.
+The party is free to leave unharmed if they wish. If they choose to do so, the next time they return to the property, it will be ransacked and empty of all items. If the adventurers decline to leave, the wererats attack. If the Wererat Assassins are killed first, the Wererat Wizard will attempt to flee. The Wererat Wizard can be coerced to dispel the magic barrier if captured alive.
 
 ### 2. Dining & Living Room
 
