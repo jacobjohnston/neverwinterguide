@@ -67,7 +67,7 @@ Brannwyn's personality is almost the exact opposite of her brother's, and the "S
 
 ### Priscilla's Perfumes and Potables
 
-Priscilla's Perfumes and Potables is owned and operated by a young human woman who goes simply by "Prsicilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistook it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
+Priscilla's Perfumes and Potables is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistook it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
 
 While the shop's name may seem to indicate that it is focused around perfumes and fragrant beverages, Priscilla is an extremely talented alchemist and apothecary. She is capable of making exotic and rare concoctions for the right price. She also has some talent in diagnosing maladies, though she generally doesn't offer those services unless asked explicitly.
 

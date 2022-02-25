@@ -239,7 +239,7 @@ An establishment like the Beached Leviathan couldn't exist without a fearless ca
 
 ##### Regulars
 
-***Len-jes.*** "Harbomaster" - Len-jes, a female scarred watersoul genasi, is actually the harbormaster of Neverwinter. She rents a room in the Beached Leviathan semiregularly.
+***Len-jes.*** "Harbormaster" - Len-jes, a female scarred watersoul genasi, is actually the harbormaster of Neverwinter. She rents a room in the Beached Leviathan semiregularly.
 
 ***Umi.*** "Helmswoman" - Umi, also a female watersoul genasi, is Len-jes's cousin and serves as backup to Feng if a situation at the tavern becomes too rowdy. She's highly skilled with the sword.
 
