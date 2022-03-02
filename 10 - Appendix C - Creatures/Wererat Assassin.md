@@ -36,7 +36,7 @@ actions:
   - name: Hand Crossbow (Humanoid or Hybrid Form Only)
     description: "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
   - name: Bite (Rat or Hybrid Form Only)
-    description: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
+    description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target Hit: 6 (1d4 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
 bonus-actions:
   - name: Change Shape
     description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
