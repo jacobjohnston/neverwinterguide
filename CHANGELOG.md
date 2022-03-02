@@ -1,4 +1,5 @@
 # 1.3
+- Corrected spelling errors and updated spellcheck list
 - Updated monster stat blocks to new format
 
 # 1.2
