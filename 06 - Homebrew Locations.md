@@ -59,7 +59,7 @@ Brannwyn's personality is almost the exact opposite of her brother's, and the "S
 >
 > Brannur and Brannwyn are extremely competitive with each other, and each will do almost anything to top the other. Their two shops are immediately next door to each other, which means that such competitions come up often. Some keen shoppers have noticed that they can use this rivalry to their advantage — generally by playing the siblings off each other. All it generally takes is a simple assertion that the other sibling has claimed the ability to do something better than the other; this will cause the first sibling to work extra hard or cut prices simply to one-up the other.  
 >
-> However, insulting either Brannur or Brannwyn in front of the other sibling will be met with swift fury. At the heart of it, the siblings care deeply for each other, and their petty squabbles are far overshadowed by the immense sense of familial pride and unity. It's quite common to see one of the Lutgehr siblings helping the other by lending a tool or even donating expensive metals and materials. An outsider taking a jab at one of the siblings will, at best, be met with a a glare and a return insult and, at worst, get you thrown out of the shop or have the entire Lutgehr clan up in arms.
+> However, insulting either Brannur or Brannwyn in front of the other sibling will be met with swift fury. At the heart of it, the siblings care deeply for each other, and their petty squabbles are far overshadowed by the immense sense of familial pride and unity. It's quite common to see one of the Lutgehr siblings helping the other by lending a tool or even donating expensive metals and materials. An outsider taking a jab at one of the siblings will, at best, be met with a glare and a return insult and, at worst, get you thrown out of the shop or have the entire Lutgehr clan up in arms.
 
 (print-column)
 
@@ -67,7 +67,7 @@ Brannwyn's personality is almost the exact opposite of her brother's, and the "S
 
 ### Priscilla's Perfumes and Potables
 
-Priscilla's Perfumes and Potables is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistook it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
+Priscilla's Perfumes and Potables is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistaken it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
 
 While the shop's name may seem to indicate that it is focused around perfumes and fragrant beverages, Priscilla is an extremely talented alchemist and apothecary. She is capable of making exotic and rare concoctions for the right price. She also has some talent in diagnosing maladies, though she generally doesn't offer those services unless asked explicitly.
 

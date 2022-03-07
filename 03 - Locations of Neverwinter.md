@@ -31,7 +31,7 @@ Exploring the interior of Castle Never is currently a perilous activity. Adventu
 - ***The Atrium***. The atrium, now boarded over to keep sunlight out and the heat of rot inside, contains an eerie display of exotic bird skeletons in gilded cages. The atrium is now home to territorial [Myconids](/monster/myconid-adult) that will attack and feast on intruders.
 - ***Hall of Mirrors***. Previously a long hall of mirrors where nobility practiced gait and posture, any mortal intruder that enters this hall will find a magical recreation of the hall's destruction. Shards of flying mirror glass and fiery ruins will be launched at any that dwell in the hall for too long.
 - ***Neverneath***. The catacombs under the castle, referred to as the "Neverneath", feature an enchantment that cause the maze-like layout to change dynamically with a malevolent sentience. Structures will change to create dead ends, tunnels that lead back on themselves, or doors that lead to new locations each time they are opened. All of this serves to trap adventurers in until they meet their demise, likely at the claws of the catacomb's many [gargoyles](/monster/gargoyle).
-- ***The Vault of the Nine***. This tomb is the resting place for the nine bodyguards of Neverwinter's royal lineage. The vault contains an outer chamber which features everburning torches that light the room when mortals enter. Undead lurk in the shadows of this outer chamber. The inner chamber, sealed away behind a giant stone door bearing the sigil of Neverwinter, has nine marble coffins that encircle a throne. Visitors that manage to make it to the inner chamber of the Vault of the Nine and take a rest may awaken to find the spirits the Nine standing vigil over them.
+- ***The Vault of the Nine***. This tomb is the resting place for the nine bodyguards of Neverwinter's royal lineage. The vault contains an outer chamber which features everburning torches that light the room when mortals enter. Undead lurk in the shadows of this outer chamber. The inner chamber, sealed away behind a giant stone door bearing the sigill of Neverwinter, has nine marble coffins that encircle a throne. Visitors that manage to make it to the inner chamber of the Vault of the Nine and take a rest may awaken to find the spirits the Nine standing vigil over them.
 
 (print-column)
 
@@ -151,7 +151,7 @@ For guests travelling through the most elaborate means, the roof features a spec
 
 #### The Mask's History
 
-The Moonstone Mask was built by Ophala Cheldarstorn, a mage and member of the Many-Starred Cloak. Ophala is also the creator of the magical masks and amulets worn by the staff. Before the Mask was sent floating above Neverwinter, it was rumored to feature secret entrances where special guests could enter and depart unnoticed. It was also rumored to have basements that connected to tunnels to dwarven-held areas of the Underdark.
+The Moonstone Mask was built by Ophala Cheldarstorn, a mage and member of the Many-Starred Cloak. Ophala is also the creator of the magical masks and amulets worn by the staff. Before the Mask was sent floating above Neverwinter, it was rumored to feature secret entrances where special guests could enter and depart unnoticed. It was also rumored to have basements that connected to tunnels of dwarven-held areas of the Underdark.
 
 In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption of Mount Hotenow snapped the inn's rope tethers.  The ropes tethering the inn were eventually replaced by large, sturdy chains, but only after the inn went drifting over the Sea of Swords for months. Even after the Mask was finally returned to Neverwinter, it ultimately attracted too few guests, became insolvent, and shuttered for a few decades. After Lord Dagult Neverember started his "New Neverwinter" movement to begin rebuilding Neverwinter, Liset Cheldar was able to not only convince Neverember that she was the rightful heir of the Moonstone Mask, but also able to have him help fund the restoration of the inn to much of its former glory under Ophala Cheldarstorn. In repayment the inn served to often house Neverember and many of his mercenaries and officers throughout the 1470s and 1480s DR.
 
@@ -186,7 +186,7 @@ It is also rumored that a hoard of treasure still exists on the earthmote. The p
 
 ### Fisher's Float
 
-Fisher's Float is an earthmote just southwest of Neverwinter that a hearty guild of fishermen have made their home and business headquarters. The homes and warehouses visible on the earthmote are austere by all accounts. The small, wooden shanties certainly imply that the fishers and sailors that call the Float their home are not living indulgent lifestyles.
+Fisher's Float is an earthmote just southwest of Neverwinter that a hearty guild of fishermen has made their home and business headquarters. The homes and warehouses visible on the earthmote are austere by all accounts. The small, wooden shanties certainly imply that the fishers and sailors that call the Float their home are not living indulgent lifestyles.
 
 While these fishermen peacefully supply a massive portion of Neverwinter's seafood, they also manage to keep largely to themselves. As a result, there exist plenty of rumors about the goings-on of Fisher's Float. One particularly prevalent rumor is that the residents of Fisher's Float are in some form of allegiance with evil sea gods and/or sea monsters.
 
@@ -257,7 +257,7 @@ An establishment like the Beached Leviathan couldn't exist without a fearless ca
 
 Throughout its relatively brief history in Neverwinter, the Beached Leviathan has found itself embroiled in conflict well beyond its seemingly-humble station. This is largely because of the type of patronage allowed in the Leviathan, in addition to Lord Neverember's own involvement with the locale. It was with Neverember's support and patronage that Harrag was able to create the establishment at all — as Neverember was ultimately the one to expunge record of his numerous crimes on the high seas. This made Harrag a true Neverember loyalist. Lord Neverember absolutely uses Harrag for his own ambitions. Neverember even went so far as to turn Harrag's own shadow into a sentient creature used to spy on the facility. 
 
-In 1479, as part of the scuffle over the true heir to the throne of Neverwinter and the lost crown of Alagondar, the Leviathan was attacked by furious Neverwinter members. The Leviathan was only saved because of intervention from adventurers and Neverember’s top general, General Sabine. Later, that same year, Ashmadai cultists and demons infiltrated the the Beached Leviathan and killed one of General Sabine's top advisors. This was ultimately part of a larger plot by a powerful mage named Elden Vargas to use the powers of Asmodeus to his own purposes. 
+In 1479, as part of the scuffle over the true heir to the throne of Neverwinter and the lost crown of Alagondar, the Leviathan was attacked by furious Neverwinter members. The Leviathan was only saved because of intervention from adventurers and Neverember’s top general, General Sabine. Later, that same year, Ashmadai cultists and demons infiltrated the Beached Leviathan and killed one of General Sabine's top advisors. This was ultimately part of a larger plot by a powerful mage named Elden Vargas to use the powers of Asmodeus to his own purposes. 
 
 |![Book](book.svg)**Read More**|
 |---|
@@ -317,7 +317,7 @@ The tower was darkened black and cast no shadow in the day. This was actually be
 
 (print-page)
 
-In 1479 DR, adventurers raided the tower and allowed the the priests of Selûne to return to the tower and perform a purification, restoring the tower to its alabaster white appearance. Now, at night when three magical shards are placed within, or below, the floating tower, a stairway of solid moonlight descends from the tower entrance. The priests of Selûne will allow only trusted visitors entrance into the tower. Those particularly-trusted visitors that take a long rest in the tower find that they receive an extra healing surge until they next take a long rest.
+In 1479 DR, adventurers raided the tower and allowed the priests of Selûne to return to the tower and perform a purification, restoring the tower to its alabaster white appearance. Now, at night when three magical shards are placed within, or below, the floating tower, a stairway of solid moonlight descends from the tower entrance. The priests of Selûne will allow only trusted visitors entrance into the tower. Those particularly-trusted visitors that take a long rest in the tower find that they receive an extra healing surge until they next take a long rest.
 
 |![Book](book.svg)**Read More**|
 |---|
@@ -432,7 +432,7 @@ The basement of the tavern is the secret meeting location for the Neverwinter ch
 
 ### The Sealed Chasm
 
-When Mount Hotenow erupted, a giant canyon into a Spellplague-laden section of the Underdark was torn open in the southeastern quarter of Neverwinter. This portion of the city was essentially leveled in the process. From this giant chasm all manner of unnatural beasts emerged. Any that approached the the chasm would experience anxiety and other unpleasant mental effects. A wall was erected around the region to contain the horrors that arose from the chasm.
+When Mount Hotenow erupted, a giant canyon into a Spellplague-laden section of the Underdark was torn open in the southeastern quarter of Neverwinter. This portion of the city was essentially leveled in the process. From this giant chasm all manner of unnatural beasts emerged. Any that approached the chasm would experience anxiety and other unpleasant mental effects. A wall was erected around the region to contain the horrors that arose from the chasm.
 
 With immense effort and expense, Neverember was able to have the chasm sealed shut with powerful magic. The chasm sealed, the district was left as not much more than leveled ruins. The area was made free for the taking. Anyone who wanted to make a settlement in the region was free to claim the land and do so. Bold settlers, particularly those too poor to do so elsewhere, are flocking to the Chasm District to build a new life for themselves. 
 
