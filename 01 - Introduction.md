@@ -76,7 +76,7 @@ Whenever you see the mug icon below, it means the section is "Homebrew" content.
 
 ### Virtual Tabletops
 
-This guide was designed with virtual tabletop (VTT) software in mind. If you have come across this guide in PDF form, but need maps, tokens, images or other resources for your Virtual Tabletop, please visit [the website for this guide](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) where all of the resources can be downloaded for free. Official modules for this guide can be found for [EncounterPlus](https://ecounter.plus).
+This guide was designed with virtual tabletop (VTT) software in mind. If you have come across this guide in PDF form, but need maps, tokens, images or other resources for your Virtual Tabletop, please visit [the website for this guide](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) where all of the resources can be downloaded for free. Official modules for this guide can be found for [EncounterPlus](https://encounter.plus).
 
 ### Contributing
 
