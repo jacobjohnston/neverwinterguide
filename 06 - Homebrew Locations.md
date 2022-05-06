@@ -85,7 +85,7 @@ All the same, her shop is absolutely befitting of the Bluelake District's desire
 
 ### Swift Heart Sundries
 
-Swift Heart Sundries is a general goods store owned by Swift Heart, an older female Tabaxi. The storefront is a modest new building that has was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
+Swift Heart Sundries is a general goods store owned by Swift Heart, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
 
 Swift Heart, after a long life filled with treasure-seeking adventures, has used her small collection of wealth to settle down and seek retirement. Always bold, however, Swift Heart intentionally chose to place her shop in an unfamiliar city. She reasoned settling in a strange, new location would at least provide her excitement even in "retirement". Over the course of her travels, she has made numerous connections with suppliers and traders, and surmised she could use these connections to make a profitable little shop. Upon word of the nearly-free land available in Neverwinter's now-sealed chasm, she made haste to the city to establish her store.
 
