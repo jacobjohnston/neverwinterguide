@@ -1,3 +1,6 @@
+# 1.5
+- Corrected lore surrounding the Cloak Tower, the ongoing occupation of orcs, and the return of the Order of the Many-Starred Cloaks
+
 # 1.4
 - Fixed spelling errors and typos
 

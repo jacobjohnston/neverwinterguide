@@ -327,7 +327,7 @@ In 1479 DR, adventurers raided the tower and allowed the priests of Selûne to r
 
 ### The Cloak Tower
 
-The Cloak Tower was a wizard tower that served as a meeting place and citadel to the Many-Starred Cloak order of wizards. However, currently, it is occupied by the Many-Arrows tribe of orcs.
+The Cloak Tower is a wizard tower that served as a meeting place and citadel to the Many-Starred Cloak order of wizards. The tower suffered a prolonged occupation by orcs, but has recently returned to the custody of the Order of the Many-Starred Cloaks.
 
 #### Vanishing Fortifications
 
@@ -341,15 +341,19 @@ The thieves didn't locate the magical device, and they saw neither wizards nor t
 
 The Many-Arrows orc tribe invaded the tower and were able to claim it. The Neverwinter residents, assuming the tower was warded by some leftover magical defenses left by the Many-Starred Cloak wizards, thought the orcs too would soon perish in the tower. The orcs, however, seemingly did not meet any resistance in the tower and were able to hold it.
 
-Lord Neverember tolerates the orcs in the location largely because he has no better option. The tower, itself, is actually one of the most fortified locations in the city. Currently without a clear path to do so, Lord Neverember is biding his time until he can figure out how to remove the orcs from the city.
+Lord Neverember tolerated the orcs in the location largely because he had no better option. The tower was actually one of the most fortified locations in the city, which left Neverember simply biding his time until he could figure out a way to rid the city of the orcs. Luckily, the Many-Arrow orcs decided to vacate the tower and move east with to help their brethren battle the dwarves.
+
+The Order of the Many-Starred Cloaks has once again become active with some ranking members even working with Lord Neverember to secure the region. It is presumed that custody of the Cloak Tower has returned to the Many-Starred Cloaks.
 
 |![Book](book.svg)**Read More**|
 |---|
+|*Sword Coast Adventurer's Guide*, p. 51 (5th Edition)|
+|*Storm Lord's Wrath*, sec. *House of Thalivar* (5th Edition)|
 |*Neverwinter Campaign Setting*, p. 120, 157 (4th Edition)|
 |*Volo's Guide to the North*, p. 134 (2nd Edition)|
 {.references}
 
-![Many-Arrows Orc Tribe](Images/ManyArrowsOrc.jpg =390x){.print-bottom-right .with-margin}
+![Many-Arrows Orc Tribe](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
 
 (print-page)
 
