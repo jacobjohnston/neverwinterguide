@@ -51,4 +51,4 @@ hide-footer-text: true
 - [Credits](credits) {.part}
 {.toc}
 
-Version 1.5 {.print-bottom-right .with-margin}
+Version 1.6 {.print-bottom-right .with-margin}
