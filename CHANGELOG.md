@@ -1,3 +1,6 @@
+# 1.6
+- Corrected some shop card prices
+
 # 1.5
 - Corrected lore surrounding the Cloak Tower, the ongoing occupation of orcs, and the return of the Order of the Many-Starred Cloaks
 

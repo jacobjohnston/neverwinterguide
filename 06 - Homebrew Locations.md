@@ -18,7 +18,7 @@ In this section, you will find an armor shop, a weapons shop, a potions shop, a 
 
 Be sure to check out [Appendix B](point-of-interest-cards-page) for useful shop cards that you can hand your players when they visit these locations.
 
-![Brannur's Dependable Defenses](Images/POICards/BrannursDependableDefenses.jpg){.size-full .screen-only .before-next-page-header}
+![Brannur's Dependable Defenses](Images/POICards/BrannursDependableDefenses.webp){.size-full .screen-only .before-next-page-header}
 
 ### Brannur's Dependable Defenses
 
@@ -39,7 +39,7 @@ Brannur has a calm and polite demeanor, and most of his customers would find it 
 
 ![Lutgehr Forge](PrintImages/Forge.jpg){.print-only .size-cover .no-margin}
 
-![Brannwyn's Sharp Edge](Images/POICards/BrannwynsSharpEdge.jpg){.size-full .screen-only .before-next-page-header}
+![Brannwyn's Sharp Edge](Images/POICards/BrannwynsSharpEdge.webp){.size-full .screen-only .before-next-page-header}
 
 ### Brannwyn's Sharp Edge
 
@@ -63,7 +63,7 @@ Brannwyn's personality is almost the exact opposite of her brother's, and the "S
 
 (print-column)
 
-![Priscilla's Perfumes and Potables](Images/POICards/PriscillasPerfumesAndPotables.jpg){.size-full .screen-only .before-next-page-header}
+![Priscilla's Perfumes and Potables](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
 
 ### Priscilla's Perfumes and Potables
 
@@ -81,7 +81,7 @@ Despite being relatively new to the city, Priscilla is now well known to a large
 
 All the same, her shop is absolutely befitting of the Bluelake District's desire to be restored to noble estates and households. The more-wealthy residents of Neverwinter all know of Priscilla and frequent her shop for both her potions and finely-crafted fragrances. The poorer residents of Neverwinter may not know of the shop, but will absolutely know of Priscilla herself and her supposed "miracle" cures.
 
-![Swift Heart Sundries](Images/POICards/SwiftHeartSundries.jpg){.size-full .screen-only .before-next-page-header}
+![Swift Heart Sundries](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
 ### Swift Heart Sundries
 
@@ -97,7 +97,7 @@ Swift Heart now has a relaxed and empathetic disposition, but she will be the fi
 
 ![Arcane Acquisitions](PrintImages/MagicShop.jpg){.print-only .size-cover .no-margin}
 
-![Arcane Acquisitions](Images/POICards/ArcaneAcquisitions.jpg){.size-full .screen-only .before-next-page-header}
+![Arcane Acquisitions](Images/POICards/ArcaneAcquisitions.webp){.size-full .screen-only .before-next-page-header}
 
 ### Arcane Acquisitions
 

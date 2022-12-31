@@ -108,7 +108,7 @@ Since the chasm's sealing, the faithful of Oghma have returned to the temple and
 
 One of the most enchanting features of the city of Neverwinter is its three large floating earthmotes. The Spellplague of 1385 DR caused chunks of Neverwinter (as well as other areas all over Toril) to rise up and begin floating away. Industrious residents of Neverwinter were able to tether a few of these earthmotes with ropes and prevent them from ultimately flying off into the Sword Coast.
 
-![The Moonstone Mask](Images/POICards/MoonstoneMask.jpg){.size-full .screen-only .before-next-page-header}
+![The Moonstone Mask](Images/POICards/MoonstoneMask.webp){.size-full .screen-only .before-next-page-header}
 
 ### The Moonstone Mask
 
@@ -199,7 +199,7 @@ While these fishermen peacefully supply a massive portion of Neverwinter's seafo
 
 ## Neverwinter's Docks
 
-![The Beached Leviathan](Images/POICards/BeachedLeviathan.jpg){.size-full .screen-only .before-next-page-header}
+![The Beached Leviathan](Images/POICards/BeachedLeviathan.webp){.size-full .screen-only .before-next-page-header}
 
 ### The Beached Leviathan
 
@@ -303,7 +303,7 @@ A trade cartel from the city of Tarmalune has procured a large warehouse complex
 
 ## Tower District
 
-![Shard of the Moon](Images/POICards/ShardOfTheMoon.jpg){.size-full .screen-only .before-next-page-header}
+![Shard of the Moon](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
 
 ### The Shard of the Moon
 
@@ -359,7 +359,7 @@ The Order of the Many-Starred Cloaks has once again become active with some rank
 
 ![The Fallen Tower](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
 
-![The Fallen Tower](Images/POICards/FallenTower.jpg){.size-full .screen-only .before-next-page-header}
+![The Fallen Tower](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
 
 ### The Fallen Tower
 
