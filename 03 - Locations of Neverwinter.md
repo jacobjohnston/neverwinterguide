@@ -81,7 +81,7 @@ With Tyr's recent resurrection, the temple has now been rededicated to Tyr, and 
 
 ### The House of Knowledge
 
-The House of Knowledge is both a library and the primary temple to Oghma in the city of Neverwinter. Architecturally, it is regarded as one of the most impressive and beautiful structures in the city. Its vast libraries contain many centuries worth of precious records and materials, including modern government documentation as the city lacks a formal seat of government at present.
+The House of Knowledge is both a library and the primary temple to Oghma in the city of Neverwinter. Architecturally, it is regarded as one of the most impressive and beautiful structures in the city – featuring abundant windows and an impressive arched roof. Its vast libraries contain many centuries worth of precious records and materials, including modern government documentation as the city lacks a formal seat of government at present.
 
 Like so much of Neverwinter, the House of Knowledge suffered near total destruction with the eruption of Mount Hotenow in 1451 DR. A dedicated young Loremaster, Atlavast, saved much of the library's precious contents by sealing away the temple's inner sanctum and trapping himself inside. Alone and in solitude, Atlavast managed to survive the cataclysm and save multitudes of rare tomes, documents, and artifacts. However, he soon grew reclusive and a little mad from the isolation. He spent his time repeatedly cataloging and reorganizing the library. He grew extremely protective of the content. During this time, the outer sections of the House of Knowledge were taken over by various squatters, including the devil-worshipping Ashmadai cultists.
 
@@ -158,7 +158,7 @@ In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption o
 |![Book](book.svg)**Read More**|
 |---|
 |*Neverwinter Campaign Setting*, p. 142 - 143, (4th Edition)|
-|*Storm Over Neverwinter*, p. 9 - 10 (4th Edition)|
+|*Storm Over Neverwinter*, p. 8 - 11 (4th Edition)|
 |*Volo's Guide to the North*, p. 138 - 140 (2nd Edition)|
 |*The North - Guide to the Savage Frontier - Cities and Civilizations*, p. 16 - 17 (2nd Edition)|
 {.references}
